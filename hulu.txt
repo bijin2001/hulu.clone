@@ -1,0 +1,78 @@
+                    <!-- Button trigger modal -->
+                    <button type="button" class="ms-auto bn  btn btn-bg-transparent" data-bs-toggle="modal"
+                        data-bs-target="#staticBackdrop">
+                        LOG IN
+                    </button>
+
+                    <!-- Modal -->
+                    <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false"
+                        tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h1 class="modal-title fs-5" id="staticBackdropLabel">Modal title</h1>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal"
+                                        aria-label="Close"></button>
+                                </div>
+                                <div class="modal-body">
+                                    ...
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary"
+                                        data-bs-dismiss="modal">Close</button>
+                                    <button type="button" class="btn btn-primary">Understood</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+prey
+https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/4528/1304528-v-6cfbf0efb381
+
+family guy
+//cnbl-cdn.bamgrid.com/assets/3ab6ce86baaf4225b072c58fa9497ec949c0c9e284b3958ecda1429b7f3744f9/original
+//cnbl-cdn.bamgrid.com/assets/4a3aa8e2de730150aba6be81a274da9d447c513fbb0a788dad007b5fe1e0877a/original
+//cnbl-cdn.bamgrid.com/assets/1cfd5743e36004288a408e977a0a9e44b57668b2bfdc525956772ce9d8769288/original
+
+            <div class="carousel" id="carouselDemo" data-bs-wrap="true" data-bs-slide="carousel">
+                <div class="carousel-inner active">
+                    <div class="carousel-item active">
+                        <img class="w-100" src="https://i.pinimg.com/564x/38/ce/c9/38cec98f0e584c52b0bb6285e422c2e0.jpg" alt="">
+                    </div>
+
+                    <div class="carousel-item active active">
+                        <img class="w-100" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/ee1958104560673.5f658ad250f3f.jpg" alt="">
+                    </div>
+
+                    <div class="carousel-item active">
+                        <img class="w-100" src="https://cinemahdapkapp.com/wp-content/uploads/2019/05/Screen-Shot-2019-05-05-at-11.01.03-PM-740x414.png" alt="">
+                    </div>
+
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselDemo" data-bs-slide="prev">
+
+                        <span class="carousel-control-prev-icon"></span>
+
+                    </button>
+
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselDemo" data-bs-slide="next">
+
+                        <span class="carousel-control-next-icon"></span>
+
+
+                    </button>
+
+                    .
+                </div>
+
+            </div>
+
+            <div class="btn-group" role="group" aria-label="Basic radio toggle button group">
+  <input type="radio" class="btn-check" name="btnradio" id="btnradio1" autocomplete="off" checked>
+  <label class="btn btn-outline-primary" for="btnradio1">Radio 1</label>
+
+  <input type="radio" class="btn-check" name="btnradio" id="btnradio2" autocomplete="off">
+  <label class="btn btn-outline-primary" for="btnradio2">Radio 2</label>
+
+  <input type="radio" class="btn-check" name="btnradio" id="btnradio3" autocomplete="off">
+  <label class="btn btn-outline-primary" for="btnradio3">Radio 3</label>
+</div>
